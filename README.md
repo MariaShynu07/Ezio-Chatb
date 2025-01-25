@@ -1,56 +1,45 @@
-# Ezio-Chatb
+# Ezio-ChatB
 
 ## Team Members
 
 - **Team Lead:** Maria Shynu - Toc H
-- 
 - **Member 2:** Jisna Raju - Toc H
 
 ---
 
 ## Project Description
-[2-3 lines about what your project does. Add something fun and engaging!]
+This is a fun, student-friendly chatbot designed to assist with queries, entertain users, and interact with the user with voice responses and subtitles. It’s an innovative blend of functionality and fun!
 
 ---
 
 ## The Problem 
-[What ridiculous problem are you solving? Describe it in a way that highlights its absurdity.]
+Even though there are many chatbots with AI and other frameworks, there is no particular chatbot for the students, to interact with them to provide them basic help and to motivate them. 
 
 ---
 
 ## The Solution 
-[How are you solving it? Make sure to keep it humorous and highlight why it’s hilariously unnecessary.]
+We have created a chatbot that can interact with students provide them help and give them mental support which they might not feel free to open up with others. 
 
 ---
 
 ## Installation
 1. Clone the repository: `git clone <repo-link>`
 2. Navigate to the project directory: `cd <project-folder>`
-3. Install dependencies (if any): `npm install` / `pip install -r requirements.txt` (adjust based on tech stack)
+3. Install dependencies: `npm install` / `pip install flask` / `pip intsall pyttsx3`/ `pip install flask_cors`
 4. Run the application: `npm start` / `python main.py`
 
 ---
 
 ## Why This Matters 
-Explain why this absurd project is clearly what the world has been missing. Bonus points for being creative and witty!
-
----
-
-## Contributing
-Feel free to contribute if you’re as excited about this pointless idea as we are! Submit your PRs, or just send us a funny meme instead.
-
----
-
-## License
-This project is licensed under [Your Preferred License]. Feel free to use it as long as you promise not to take it too seriously!
+This project really matters because in this busy world most of them don't care for the students, the problems they are facing, what are they going through, etc. So it is a need to create a friendl assistant for them. 
 
 ---
 
 ## Acknowledgements
 Special thanks to:
-- Coffee, for keeping us awake
-- [Insert random funny thing, like "our pet goldfish"]
-- Anyone else who inspired your ridiculous idea
+- Principle, Vice Principle, HOD's, Faculty members for porviding this amazng opportunity
+- Members and mentors for providing great support
+- Tea, for keeping us awake
 
 ---
 
