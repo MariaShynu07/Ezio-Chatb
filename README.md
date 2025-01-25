@@ -21,6 +21,11 @@ Even though there are many chatbots with AI and other frameworks, there is no pa
 We have created a chatbot that can interact with students provide them help and give them mental support which they might not feel free to open up with others. 
 
 ---
+## Technical Details
+1. Language used - Python, JavaScript, HTML and CSS
+2. Libraries used - flask, pyttsx3, flask_cors
+   
+---
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/MariaShynu07/Ezio-Chatb.git`
@@ -29,6 +34,14 @@ We have created a chatbot that can interact with students provide them help and 
 4. Run the application: `python main.py`
 
 ---
+
+## Run Commands 
+1. flask run
+2. py app.py
+
+---
+## Project Documentation 
+
 
 ## Why This Matters 
 This project really matters because in this busy world most of them don't care for the students, the problems they are facing, what are they going through, etc. So it is a need to create a friendl assistant for them. 
