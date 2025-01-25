@@ -23,10 +23,10 @@ We have created a chatbot that can interact with students provide them help and 
 ---
 
 ## Installation
-1. Clone the repository: `git clone <repo-link>`
-2. Navigate to the project directory: `cd <project-folder>`
-3. Install dependencies: `npm install` / `pip install flask` / `pip intsall pyttsx3`/ `pip install flask_cors`
-4. Run the application: `npm start` / `python main.py`
+1. Clone the repository: `git clone https://github.com/MariaShynu07/Ezio-Chatb.git`
+2. Navigate to the project directory: `cd Ezio_ChatB`
+3. Install dependencies: `pip install flask` / `pip intsall pyttsx3`/ `pip install flask_cors`
+4. Run the application: `python main.py`
 
 ---
 
