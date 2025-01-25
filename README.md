@@ -40,8 +40,10 @@ We have created a chatbot that can interact with students provide them help and 
 2. py app.py
 
 ---
-## Project Documentation 
+## Project photos and videos 
+https://drive.google.com/drive/folders/17yCpkGX_8tcpcF7mEnb88DFXYKjJntwo?usp=drive_link
 
+-----
 
 ## Why This Matters 
 This project really matters because in this busy world most of them don't care for the students, the problems they are facing, what are they going through, etc. So it is a need to create a friendl assistant for them. 
