@@ -18,7 +18,7 @@ Even though there are many chatbots with AI and other frameworks, there is no pa
 ---
 
 ## The Solution 
-We have created a chatbot that can interact with students provide them help and give them mental support which they might not feel free to open up with others. 
+We have created a chatbot that can interact with students provide them help and give them mental support which they might not feel free to open up with others. This Chat Bot gives responses also with the voice of the given text to make it more interesting.
 
 ---
 ## Technical Details
